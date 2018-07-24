@@ -1,0 +1,13 @@
+Package: loadAllChunksCache
+Type: Package
+Date: 2018-07-24
+Title: Load All Chunks Cache
+Version: 0.1.0
+Author: Aurelien Chateigner <aurelien.chateigner@gmail.com>
+Maintainer: Aurelien Chateigner <aurelien.chateigner@gmail.com>
+Description: The goal is to load each cached chunk from your Rmd, in the order of the appearance in the file.
+License: CC BY-SA 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat
